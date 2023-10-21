@@ -61,7 +61,7 @@ To use the Speed Demerit Calculator, follow these setup instructions:
 
 **Clone the Repository:**
 
-git clone 
+git clone git@github.com:arnoldkaroki/wk1codechallenge.git
 
 **Navigate to the Project Directory:**
 
