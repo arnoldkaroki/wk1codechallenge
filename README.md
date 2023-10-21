@@ -19,6 +19,7 @@ cd student-grade-generator
 **Install Dependencies and Run Test (if required)**:
 
 npm install
+
 npm test
 
 **Run the Program**:
