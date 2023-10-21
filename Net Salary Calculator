@@ -1,8 +1,3 @@
-
-Terence Shawn <terenceshawn18@gmail.com>
-Fri, 13 Oct, 14:11 (8 days ago)
-to me
-
 // Declare all the variables using a single let statement
 let totalTaxes, payeAmount, NHIF, netSalary, taxMessage, nssfDeductions;
 
