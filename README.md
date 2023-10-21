@@ -53,7 +53,7 @@ Arnold Karoki.
 
 **Description**
 
-The Speed Demerit Calculator is a simple JavaScript program that helps determine demerit points for drivers based on their speed while driving. It checks if the speed is above a specified speed limit, and if so, calculates demerit points according to a predefined rule: one demerit point for every 5 km/h over the speed limit. The program provides feedback to the driver, informing them whether they are within the speed limit, how many demerit points they've earned, and whether their license might be suspended if they accumulate too many points.
+The Speed Demerit Calculator is a simple program that helps determine demerit points for drivers based on their speed while driving. It checks if the speed is above a specified speed limit, and if so, calculates demerit points according to a predefined rule: one demerit point for every 5 km/h over the speed limit. The program provides feedback to the driver, informing them whether they are within the speed limit, how many demerit points they've earned, and whether their license might be suspended if they accumulate too many points.
 
 **Set Up Instructions:**
 
@@ -92,4 +92,45 @@ After viewing the result, you can exit the program.
 
 **Author:** Arnold Karoki.
 
+
+**3. Net Salary Calculator.**
+
+**Description**
+
+The Net Salary Calculator is a program designed to help individuals and organizations calculate an individual's net salary based on their Basic Salary and Benefits. It takes into account Payee (Tax), NHIF Deductions, and NSSF Deductions, providing a comprehensive view of an individual's earnings and deductions. This tool is useful for both employees and employers to understand salary components and deductions.
+
+
+**Set Up Instructions**
+
+To use the Net Salary Calculator, follow these setup instructions:
+
+**Clone the Repository:**
+
+git clone git@github.com:arnoldkaroki/wk1codechallenge.git
+
+**Navigate to the Project Directory:**
+
+cd net-salary-calculator
+
+**Run the Program:**
+
+net_salary_calculator.html
+
+**Input Salary Details:**
+
+Follow the on-screen prompts to input the Basic Salary and Benefits.
+
+**View the Results:**
+
+The program will calculate and display the Gross Salary, Payee (Tax), NHIF Deductions, NSSF Deductions, and Net Salary.
+
+**Repeat and Customize:**
+
+You can run the program multiple times with different salary details by changing the input values.
+
+**Exit the Program:**
+
+After viewing the results, you can exit the program.
+
+**Author:** Arnold Karoki.
 
